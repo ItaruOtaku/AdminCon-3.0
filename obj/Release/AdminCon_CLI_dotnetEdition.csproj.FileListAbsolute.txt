@@ -1,0 +1,10 @@
+C:\Users\koizu\source\repos\AdminCon\AdminCon_CLI_dotnetEdition\bin\Release\AC.exe.config
+C:\Users\koizu\source\repos\AdminCon\AdminCon_CLI_dotnetEdition\bin\Release\AC.exe
+C:\Users\koizu\source\repos\AdminCon\AdminCon_CLI_dotnetEdition\bin\Release\AC.pdb
+C:\Users\koizu\source\repos\AdminCon\AdminCon_CLI_dotnetEdition\obj\Release\AdminCon_CLI_dotnetEdition.csprojAssemblyReference.cache
+C:\Users\koizu\source\repos\AdminCon\AdminCon_CLI_dotnetEdition\obj\Release\AdminCon_CLI_dotnetEdition.Classes.UI.GraphicalInterface.resources
+C:\Users\koizu\source\repos\AdminCon\AdminCon_CLI_dotnetEdition\obj\Release\AdminCon_CLI_dotnetEdition.Properties.Resources.resources
+C:\Users\koizu\source\repos\AdminCon\AdminCon_CLI_dotnetEdition\obj\Release\AdminCon_CLI_dotnetEdition.csproj.GenerateResource.cache
+C:\Users\koizu\source\repos\AdminCon\AdminCon_CLI_dotnetEdition\obj\Release\AdminCon_CLI_dotnetEdition.csproj.CoreCompileInputs.cache
+C:\Users\koizu\source\repos\AdminCon\AdminCon_CLI_dotnetEdition\obj\Release\AC.exe
+C:\Users\koizu\source\repos\AdminCon\AdminCon_CLI_dotnetEdition\obj\Release\AC.pdb
